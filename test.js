@@ -8,7 +8,7 @@ const errorHandler = (err, message) => {
   return message;
 };
 
-tap.test("fastify sentry error handler exist", async test => {
+tap.test("library should correctly function", async test => {
   test.plan(6);
 
   // Successful Resolution
