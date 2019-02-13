@@ -1,0 +1,29 @@
+{
+  "name": "incepto",
+  "version": "1.0.0",
+  "description": "A package for inline asynchronous try-catch",
+  "main": "index.js",
+  "scripts": {
+    "test": "tap test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alex-ppg/incepto.git"
+  },
+  "keywords": [
+    "try",
+    "catch",
+    "async",
+    "error",
+    "handling"
+  ],
+  "author": "Alex Papageorgiou",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/alex-ppg/incepto/issues"
+  },
+  "homepage": "https://github.com/alex-ppg/incepto#readme",
+  "devDependencies": {
+    "tap": "^12.5.2"
+  }
+}
